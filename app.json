@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "SRU",
+    "slug": "SRU",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/app_logo.png",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "splash": {
+        "image": "./assets/splash/splash.png",
+        "backgroundColor": "#222B45",
+        "resizeMode": "contain"
+      },
+      "supportsTablet": true,
+      "bundleIdentifier": "com.batch31.SRU"
+    },
+    "android": {
+      "splash": {
+        "mdpi": "./assets/splash/splash-mdpi.png",
+        "hdpi": "./assets/splash/splash-hdpi.png",
+        "xhdpi": "./assets/splash/splash-xhdpi.png",
+        "xxhdpi": "./assets/splash/splash-xxhdpi.png",
+        "xxxhdpi": "./assets/splash/splash-xxxhdpi.png",
+        "backgroundColor": "#222B45",
+        "resizeMode": "contain"
+      },
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/app_logo.png",
+        "backgroundColor": "#222B45"
+      },
+      "package": "com.batch31.SRU"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": ""
+  }
+}
