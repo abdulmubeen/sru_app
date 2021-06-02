@@ -15,11 +15,9 @@
 
 Download project: `git clone https://github.com/abdulmubeen/sru_app.git && cd sru_app` 
 
-First, make sure you have Expo CLI installed: `npm install -g expo-cli`
+First, make sure you have Expo CLI and yarn installed: `npm install -g expo-cli` && `yarn install`
 
-Install: `yarn` or `yarn install`
-
-Run Project Locally: `yarn dev` or `yarn start`
+Then, install libraries: `yarn` or `yarn install`
 
 Run Project using Expo: `expo start`
 
