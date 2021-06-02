@@ -1,1 +1,1 @@
-# sru_app
+# A complete college application using React Native
