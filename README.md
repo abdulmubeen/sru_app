@@ -1,1 +1,1 @@
-# A complete college application using React Native
+# React Native Expo based college application
