@@ -1,7 +1,7 @@
 # React Native Expo based college application
 [![made with expo](https://img.shields.io/badge/MADE%20WITH%20EXPO-000.svg?style=for-the-badge&logo=expo&labelColor=4630eb&logoWidth=20)](https://github.com/expo/expo) [![supports iOS and Android](https://img.shields.io/badge/Platforms-Native-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=fff)](https://github.com/expo/expo)
 
-[![front end with ui kitten](https://img.shields.io/badge/Front%20End-UI%20Kitten-orange?style=for-the-badge&logo=UIkit)](https://github.com/akveo/react-native-ui-kitten) [![built with Firebase](https://img.shields.io/badge/Built%20With-Firebase-yellow?style=for-the-badge&logo=Firebase)](https://firebase.google.com/)
+[![front end with ui kitten](https://img.shields.io/badge/Front%20End-UI%20Kitten-orange?style=for-the-badge&logo=UIkit&labelColor=black)](https://github.com/akveo/react-native-ui-kitten) [![built with Firebase](https://img.shields.io/badge/Built%20With-Firebase-yellow?style=for-the-badge&logo=Firebase&labelColor=black)](https://firebase.google.com/)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge)](https://github.com/abdulmubeen/sru_app/blob/main/LICENSE) ![visitors](https://visitor-badge.glitch.me/badge?page_id=sru_app.visitor-badge)
 
