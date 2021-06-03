@@ -23,7 +23,7 @@ Run Project using Expo: `expo start`
 
 OR
 
-Try the application using Expo Go: `https://expo.io/@abdul-mubeen`
+Try the application using Expo Go: `https://expo.io/@abdul-mubeen/SRU`
 
 ## Features
 
