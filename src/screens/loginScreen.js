@@ -21,13 +21,7 @@ import NetInfo from "@react-native-community/netinfo";
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD0JxyFFCKbhPzqFFs7YhSJbUr4PbfyvRs",
-  authDomain: "sru-app-eab34.firebaseapp.com",
-  projectId: "sru-app-eab34",
-  storageBucket: "sru-app-eab34.appspot.com",
-  messagingSenderId: "580808238794",
-  appId: "1:580808238794:web:4d86978de6dc5bc03df633",
-  measurementId: "G-K64NN3E4SY",
+  //FIREBASE CONFIG DETAILS HERE
 };
 if (!firebase.apps.length) {
   firebase.initializeApp(firebaseConfig);
