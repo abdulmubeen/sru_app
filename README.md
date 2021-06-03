@@ -21,6 +21,10 @@ Then, install libraries: `yarn` or `yarn install`
 
 Run Project using Expo: `expo start`
 
+OR
+
+Try the application using Expo Go: `https://expo.io/@abdul-mubeen`
+
 ## Features
 
 - Expo SDK 41
