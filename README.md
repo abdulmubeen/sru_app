@@ -3,7 +3,7 @@
 
 [![front end with ui kitten](https://img.shields.io/badge/Front%20End-UI%20Kitten-orange?style=for-the-badge&logo=UIkit)](https://github.com/akveo/react-native-ui-kitten) [![built with Firebase](https://img.shields.io/badge/Built%20With-Firebase-yellow?style=for-the-badge&logo=Firebase)](https://firebase.google.com/)
 
-[![MIT License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge)](https://github.com/abdulmubeen/sru_app/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge)](https://github.com/abdulmubeen/sru_app/blob/main/LICENSE) ![visitors](https://visitor-badge.glitch.me/badge?page_id=sru_app.visitor-badge)
 
 ## Table of Contents
 
